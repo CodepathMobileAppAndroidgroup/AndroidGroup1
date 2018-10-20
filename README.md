@@ -1,6 +1,5 @@
 # AndroidGroup1
 Same Course Connecting App
-
 App Description
 
 An app that allows students all over the nation to connect based on the courses that they are taking and allows them to talk, work, and collaborate together and creates a work space for students to help them succeed.
