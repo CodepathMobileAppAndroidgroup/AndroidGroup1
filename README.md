@@ -34,7 +34,7 @@ An app that allows students all over the nation to connect based on the courses 
  * User can search for friends
  * User can login as a student or as a professor
  * User can kick and add students to a group if he is the host of the group
- * 
+
 
 ## 2. Screen Archetypes
 
