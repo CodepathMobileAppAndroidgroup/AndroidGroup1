@@ -10,9 +10,9 @@ https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/Figma
 <img src="https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/FigmaPrototypegif.gif" width=200><br>
 
 ### Figma Flow Diagram
-https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/FigmaPrototypegif.gif
+https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/figmaprototype.PNG
 
-<img src="https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/FigmaPrototypegif.gif" width=200><br>
+<img src="https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/figmaprototype.PNG" width=200><br>
 
 
 ### App Idea Evaluation
