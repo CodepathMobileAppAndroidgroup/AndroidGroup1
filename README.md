@@ -4,6 +4,11 @@
 ### App Description
 An app that allows students all over the nation to connect based on the courses that they are taking and allows them to talk, work, and collaborate together and  creates a work space for students to help them succeed.
 
+### Figma Prototype Walk-though
+https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/FigmaPrototypegif.gif
+
+<img src="https://github.com/CodepathMobileAppAndroidgroup/AndroidGroup1/blob/master/FigmaPrototypegif.gif" width=200><br>
+
 ### App Idea Evaluation
 
 
