@@ -1,6 +1,9 @@
 # AndroidGroup1
 ## Same Course Connecting App
 
+### Pitch Deck
+Link: https://docs.google.com/presentation/d/1Y6nx4Z-G-0hGOlKWY9dJoGk2ztVOc4TpbmgAoYQjd04/edit?usp=sharing
+
 ### App Description
 An app that allows students all over the nation to connect based on the courses that they are taking and allows them to talk, work, and collaborate together and  creates a work space for students to help them succeed.
 
